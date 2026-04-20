@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 300" role="img" aria-label="JAEBC">
+  <!-- Temporary preview only — replace outputs/logo.png with the official JAEBC logo -->
+  <!-- Yellow circle (back layer) -->
+  <circle cx="92" cy="108" r="78" fill="#F4C52E"/>
+  <!-- Green half-disc (left) -->
+  <path d="M 70 30 A 78 78 0 0 0 70 186 Z" fill="#1FA24A"/>
+  <!-- Red shape (right): circle with straight diagonal edge on upper-left -->
+  <path d="M 136 68 L 206 68 A 62 62 0 1 1 136 192 L 136 130 Z" fill="#E53935"/>
+  <!-- JAEBC wordmark -->
+  <text x="120" y="264" text-anchor="middle"
+        font-family="Inter, 'Helvetica Neue', Arial, sans-serif"
+        font-weight="900" font-size="58" letter-spacing="-1" fill="#111111">JAEBC</text>
+</svg>
